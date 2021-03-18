@@ -21,4 +21,4 @@ return a + b
 }
 
 
-objeto_general.suma(20,30);
+console.log(objeto_general.suma(20,30));
